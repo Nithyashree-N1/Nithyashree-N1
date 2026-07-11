@@ -1,7 +1,6 @@
 # Hi there! 👋 I'm Nithyashree Nataraja
 
-> **Data Analyst | MSc Data Science Graduate (Nottingham Trent University)**
-> Passionate about transforming complex, multi-structured datasets into actionable business intelligence, interactive dashboards, and automated workflows.
+> **Data Analyst | MSc Data Science Graduate (Nottingham Trent University)** > Passionate about transforming complex, multi-structured datasets into actionable business intelligence, interactive dashboards, and automated workflows.
 
 ---
 
