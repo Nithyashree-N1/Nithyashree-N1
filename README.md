@@ -1,6 +1,7 @@
 # Hi there! 👋 I'm Nithyashree Nataraja
 
-> **Data Analyst | MSc Data Science Graduate (Nottingham Trent University)** > Passionate about transforming complex, multi-structured datasets into actionable business intelligence, interactive dashboards, and automated workflows.
+> **Data Analyst | MSc Data Science Graduate (Nottingham Trent University)**
+> Passionate about transforming complex, multi-structured datasets into actionable business intelligence, interactive dashboards, and automated workflows.
 
 ---
 
@@ -17,7 +18,7 @@
 
 ## 🚀 Featured Data Analytics Projects
 
-### 🏢 [AI Built Environment Evaluator](https://github.com/Nithyashree-N1/ai-built-environment-evaluator)
+### 🏢 [ai-driven-environmental-analytics](https://github.com/Nithyashree-N1/ai-built-environment-evaluator)
 * **Industry Collaboration:** Partnered with a UK Sustainability Consultant to automate BREEAM compliance checking.
 * **Tech Stack:** Python, Streamlit, ChromaDB, NLP Retrieval Logic.
 * **Impact:** Built a functional RAG prototype that programmatically extracts evidence from Transport Assessment PDFs and applies deterministic scoring rules to eliminate audit backlogs.
