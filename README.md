@@ -49,4 +49,4 @@
 * **LinkedIn:** [linkedin.com/in/nithyashreenataraja](https://www.linkedin.com/in/nithyashreenataraja)  
 * **Email:** [nithyashreenataraja@gmail.com](mailto:nithyashreenataraja@gmail.com)  
 
-🗣️ *Open to Data Analyst,Data Scientist, and Product Analyst opportunities across the UK.*
+🗣️ *Open to Data Analyst, Data Scientist, and Product Analyst opportunities across the UK.*
