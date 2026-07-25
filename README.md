@@ -1,52 +1,139 @@
-# Hi there! 👋 I'm Nithyashree Nataraja
+# Hi there!  I'm Nithyashree Nataraja
 
-> **Data Analyst | MSc Data Science Graduate (Nottingham Trent University)** > Passionate about transforming complex, multi-structured datasets into actionable business intelligence, interactive dashboards, and automated workflows.
+### Data Analyst | Business Intelligence | Applied AI
 
----
-
-## 🛠️ Technical Toolkit
-
-| Category | Technologies & Tools |
-| :--- | :--- |
-| **Languages** | Python (Pandas, NumPy, PyTorch), SQL (PostgreSQL), R |
-| **Data Visualization & BI** | Power BI, Microsoft Excel (Advanced Pivot Tables, Slicers), Streamlit |
-| **Data Engineering & AI** | Vector Databases (ChromaDB), Semantic Retrieval (RAG Workflows), NLP |
-| **Developer Tools** | Git, GitHub, Jupyter Notebooks |
+I build end-to-end analytics solutions that transform complex data into practical business insights. My portfolio combines **SQL, Python, Power BI, Excel, R, Machine Learning, and AI** to solve real-world problems across **retail, HR, healthcare, sustainability, tourism, and statistical modelling**.
 
 ---
 
-## 🚀 Featured Data Analytics Projects
+##  What I Build
 
-### 🏢 [AI Built Environment Evaluator](https://github.com/Nithyashree-N1/ai-driven-environmental-analytics)
-* **Industry Collaboration:** Partnered with a UK Sustainability Consultant to automate BREEAM compliance checking.
-* **Tech Stack:** Python, Streamlit, ChromaDB, NLP Retrieval Logic.
-* **Impact:** Built a functional RAG prototype that programmatically extracts evidence from Transport Assessment PDFs and applies deterministic scoring rules to eliminate audit backlogs.
-
-### 🛒 [Zepto Inventory Analysis Using SQL](https://github.com/Nithyashree-N1/zepto-inventory-sql-analysis)
-* **Focus:** E-Commerce Inventory & Margin Optimization.
-* **Tech Stack:** PostgreSQL, SQL Data Analytics.
-* **Impact:** Standardized multi-column retail data schemas, built custom price-per-gram normalization metrics, and designed strategic `CASE WHEN` segmentation blocks to flag warehouse space and replenishment priorities.
-
-### 📊 [HR Analytics Power BI Dashboard](https://github.com/Nithyashree-N1/HR-Analytics-PowerBI-Dashboard)
-* **Focus:** Corporate Workforce Demographics & Operational KPIs.
-* **Tech Stack:** Power BI, DAX, Data Modeling.
-* **Impact:** Developed an interactive enterprise dashboard tracking corporate attrition trends, workforce diversity metrics, and actionable retention insights for executive teams.
-
-### 📈 [Vrinda Sales Analysis Excel Dashboard](https://github.com/Nithyashree-N1/Vrinda-sales-analysis-excel-dashboard)
-* **Focus:** Retail Exploratory Data Analysis (EDA).
-* **Tech Stack:** Microsoft Excel, Pivot Tables, Pivot Charts, Dynamic Slicers.
-* **Impact:** Built a clean, business-driven sales analysis canvas to identify purchasing behavior patterns and seasonal revenue spikes.
+-  Interactive Business Intelligence dashboards for decision-making
+-  SQL analytics for inventory, pricing, and commercial insights
+-  Python applications for exploratory data analysis and automation
+-  AI-powered solutions using Machine Learning, NLP, and Retrieval-Augmented Generation (RAG)
+-  Statistical modelling and predictive analytics using R
 
 ---
 
-## 🎓 Education & Credentials
-* **MSc in Data Science** — Nottingham Trent University (UK)
-* **Core Focus Areas:** Applied Artificial Intelligence, Advanced Data Databases, Commercial Data Storytelling, Predictive Analytics.
+##  Technical Skills
+
+### Programming & Analytics
+- Python (Pandas, NumPy, Scikit-learn, TensorFlow)
+- SQL (PostgreSQL)
+- R
+
+### Business Intelligence
+- Microsoft Power BI
+- Microsoft Excel
+- DAX
+- Power Query
+
+### Machine Learning & AI
+- Machine Learning
+- Deep Learning
+- NLP
+- Retrieval-Augmented Generation (RAG)
+- ChromaDB
+
+### Data Visualisation
+- Power BI
+- Matplotlib
+- Seaborn
+- ggplot2
+- Streamlit
+- Tkinter
+
+### Tools
+- Git
+- GitHub
+- Jupyter Notebook
+- RStudio
 
 ---
 
-## 🤝 Let's Connect!
-* **LinkedIn:** [linkedin.com/in/nithyashreenataraja](https://www.linkedin.com/in/nithyashreenataraja)  
-* **Email:** [nithyashreenataraja@gmail.com](mailto:nithyashreenataraja@gmail.com)  
+#  Featured Projects
 
-🗣️ *Open to Data Analyst, Data Scientist, Business Intelligence Analyst and Product Analyst opportunities across the UK.*
+##  Business Intelligence
+
+###  HR Analytics Dashboard (Power BI)
+Interactive HR dashboard analysing employee attrition, workforce demographics, job satisfaction, and organisational KPIs to support data-driven HR decision-making.
+
+🔗 https://github.com/Nithyashree-N1/HR-Analytics-PowerBI-Dashboard
+
+---
+
+###  Vrinda Store Sales Analysis (Excel)
+Interactive Excel dashboard analysing customer behaviour, sales performance, regional trends, and sales channels to identify opportunities for business growth.
+
+🔗 https://github.com/Nithyashree-N1/Vrinda-sales-analysis-excel-dashboard
+
+---
+
+##  Data Analytics
+
+###  Zepto Inventory Analysis Using SQL
+Business-focused SQL analysis exploring pricing strategy, inventory optimisation, discount analysis, revenue estimation, and warehouse planning using PostgreSQL.
+
+🔗 https://github.com/Nithyashree-N1/zepto-inventory-sql-analysis
+
+---
+
+###  Global Tourism Data Analysis
+Python-based exploratory data analysis and interactive GUI for analysing tourism trends, COVID-19 impacts, and regional recovery patterns across multiple countries.
+
+🔗 https://github.com/Nithyashree-N1/global-tourism-data-analysis
+
+---
+
+##  Applied AI & Machine Learning
+
+###  AI Built Environment Evaluator
+Industry collaboration project developing a Retrieval-Augmented Generation (RAG) application that assists sustainability consultants by automating BREEAM-style environmental compliance assessments.
+
+🔗 https://github.com/Nithyashree-N1/ai-driven-environmental-analytics
+
+---
+
+###  COVID-19 Chest X-ray Diagnosis
+End-to-end machine learning pipeline comparing deep learning and classical machine learning approaches for automated medical image classification.
+
+🔗 https://github.com/Nithyashree-N1/covid19-xray-diagnosis-ai
+
+---
+
+##  Statistical Modelling
+
+###  Body Fat Prediction & Statistical Modelling in R
+Statistical modelling project applying regression, hypothesis testing, PCA, and clustering techniques to identify key predictors of body fat percentage.
+
+🔗 https://github.com/Nithyashree-N1/bodyfat-prediction-statistical-modelling
+
+---
+
+##  Core Competencies
+
+- Business Intelligence & Dashboard Development
+- Exploratory Data Analysis (EDA)
+- SQL Query Development
+- Data Cleaning & Transformation
+- Statistical Analysis
+- Machine Learning
+- Deep Learning
+- Natural Language Processing (NLP)
+- Retrieval-Augmented Generation (RAG)
+- Data Storytelling
+- KPI Reporting
+- Predictive Modelling
+
+---
+
+##  Let's Connect
+
+ **Email:** nithyashreenataraja@gmail.com
+
+ **LinkedIn:** https://www.linkedin.com/in/nithyashreenataraja
+
+---
+
+ *I'm actively seeking opportunities as a Data Analyst, Business Intelligence Analyst, Product Analyst, or Junior Data Scientist in the UK.*
