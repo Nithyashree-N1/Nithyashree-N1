@@ -61,4 +61,4 @@
 * **LinkedIn:** [linkedin.com/in/nithyashreenataraja](https://www.linkedin.com/in/nithyashreenataraja)  
 * **Email:** [nithyashreenataraja@gmail.com](mailto:nithyashreenataraja@gmail.com)  
 
-🗣️  *Open to Data Analyst, Business Intelligence Analyst, Product Analyst, and Junior Data Scientist opportunities across the UK.*
+  *Open to Data Analyst, Business Intelligence Analyst, Product Analyst, and Junior Data Scientist opportunities across the UK.*
